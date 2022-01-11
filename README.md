@@ -81,6 +81,6 @@
   <a align="left" href="https://github.com/IbukunoluwaNap/Advance_Notification" title="Turkce-Heceleme-CPP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=IbukunoluwaNap&repo=Advance_Notification&theme=gotham"></a>
   
   <a align="right" href="https://github.com/IbukunoluwaNap/marktorder_django" title="ELF Coin BEP20 Token"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=IbukunoluwaNap&repo=marktorder_django&theme=gotham"></a>
-</p>
+
 <br><br><br><br><br><br><br><br><br><br><br><br><br>
 <h4 align="center"><a href="https://github.com/IbukunoluwaNap?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a></h4>
