@@ -28,26 +28,38 @@
 
 <br>
 
+<p align="center">
+    Hi, I'm Ibukunoluwa Naphtali, Web Developer • Software Developer • Blockchain Developer.
+    <br>
+    <br>
+    🔬 I'm currently amping up my Solidity skills!.
+    <br>
+
+    💻 Simply addicted to code
+    <br>
+    📚 Currently building the Marktorder university marketplace for student sellers and buyers.
+    <br>
+    💬<a href="https://github.com/IbukunoluwaNap/marktorder_flutter/issues" title="Issues">Marktorder Flutter Issues</a>
+    <br>
+    💬<a href="https://github.com/IbukunoluwaNap/marktorder_django/issues" title="Issues">Marktorder Django Issues</a>
+    <br>
+    📫 How to reach me: <a href="mailto: promisenap2001@gmail.com">promisenap2001@gmail.com</a>
+</p>
+
+<hr>
+
 <h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
 
 <p align="center">
-  <code><img title="React" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/react-original.svg"></code>
-  <code><img title="Python" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/python-original.svg"></code>
-  <code><img title="Django" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/django.png"></code>
-  <code><img title="Javascript" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/javascript.svg"></code>
-  <code><img title="Problem Solving" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/problemSolving.png"></code>
-  <code><img title="HTML5" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/css.svg"></code>
-  <code><img title="SASS" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/sass.svg"></code>
-  <code><img title="Nodejs" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png"></code>
-
-  <!-- <code><img title="Git" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/git-original.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/vscode.png"></code>
-  <code><img title="Microsoft Visual Studio" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/visualstudio.png"></code>
-  <code><img title="JQuery" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/jquery-original.svg"></code>
-  
-  <code><img title="JSON" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/json.svg"></code> -->
-
+    <code><img title="React" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/react-original.svg"></code>
+    <code><img title="Python" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/python-original.svg"></code>
+    <code><img title="Django" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/django.png"></code>
+    <code><img title="Javascript" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/javascript.svg"></code>
+    <code><img title="Problem Solving" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/problemSolving.png"></code>
+    <code><img title="HTML5" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/html5.svg"></code>
+    <code><img title="CSS" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/css.svg"></code>
+    <code><img title="SASS" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/sass.svg"></code>
+    <code><img title="Nodejs" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png"></code>
 </p>
 
 <hr>
