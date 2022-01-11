@@ -1,36 +1,32 @@
 <h3 align="center">Hello there, I'm Ibukunoluwa 👋</h3>
 <h5 align="center">
-  <code>
-    <a href="https://www.linkedin.com/in/ibukunoluwanap/" title="LinkedIn Profile">
-      <img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn
-    </a>
-  </code>
-  <code><a href="https://twitter.com/ibukunoluwanap" title="Twitter Profile"><img width="22" src="https://play-lh.googleusercontent.com/wIf3HtczQDjHzHuu7vezhqNs0zXAG85F7VmP7nhsTxO3OHegrVXlqIh_DWBYi86FTIGk"> Twitter</a></code>
-  <code>
-    <a href="https://stackoverflow.com/users/13787785/ibukunoluwa-naphtali" title="Stack Overflow Profile">
-      <img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/stackoverflow.svg"> Stack Overflow
-    </a>
-  </code>
-  <code><a href="https://www.instagram.com/ibukunoluwanap/" title="Instagram Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> Instagram</a></code>
+    <code>
+        <a href="https://www.linkedin.com/in/ibukunoluwanap/" title="LinkedIn Profile">
+            <img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> 
+            LinkedIn
+        </a>
+    </code>
+    <code>
+        <a href="https://twitter.com/ibukunoluwanap" title="Twitter Profile">
+            <img width="22" src="https://play-lh.googleusercontent.com/wIf3HtczQDjHzHuu7vezhqNs0zXAG85F7VmP7nhsTxO3OHegrVXlqIh_DWBYi86FTIGk"> 
+            Twitter
+        </a>
+    </code>
+    <code>
+        <a href="https://stackoverflow.com/users/13787785/ibukunoluwa-naphtali" title="Stack Overflow Profile">
+            <img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/stackoverflow.svg"> 
+            Stack Overflow
+        </a>
+    </code>
+    <code>
+        <a href="https://www.instagram.com/ibukunoluwanap/" title="Instagram Profile">
+            <img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> 
+            Instagram
+        </a>
+    </code>
 </h5>
+
 <br>
-<p align="center">
-  Hi, I'm Ibukunoluwa Naphtali, Web Developer • Software Developer • Blockchain Developer.
-  <br>
-  <br>
-  🔬 I'm currently amping up my Solidity skills!.
-  <br>
-
-  💻 Simply addicted to code
-  <br>
-  📚 Currently building the Marktorder university marketplace for student sellers and buyers.
-  <br>
-  <!-- 💬<a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a> -->
-  <br>
-  📫 How to reach me: <a href="mailto: promisenap2001@gmail.com">promisenap2001@gmail.com</a>
-</p>
-
-<hr>
 
 <h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
 
