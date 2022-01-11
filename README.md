@@ -55,7 +55,7 @@
 
 <h2 align="center">Repositories</h2>
 
-<p width="100%" align="center">
+<!-- <p width="100%" align="center">
     <a align="left" href="https://github.com/IbukunoluwaNap/marktorder_flutter" title="Marktorder Flutter"><img align="left"
             height="115"
             src="https://github-readme-stats.vercel.app/api/pin/?username=IbukunoluwaNap&repo=marktorder_flutter&theme=gotham"></a>
@@ -63,6 +63,15 @@
     <a align="right" href="https://github.com/IbukunoluwaNap/marktorder_django" title="Marktorder Django">
         <img align="right" height="115"
             src="https://github-readme-stats.vercel.app/api/pin/?username=IbukunoluwaNap&repo=marktorder_django&theme=gotham">
+    </a>
+</p> -->
+
+<p width="100%" align="center">
+    <a align="left" href="https://github.com/IbukunoluwaNap/marktorder_flutter" title="Marktorder Flutter">
+        <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=IbukunoluwaNap&repo=marktorder_flutter&theme=gotham"></a>
+  
+    <a align="right" href="https://github.com/IbukunoluwaNap/marktorder_django" title="Marktorder Django">
+        <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=IbukunoluwaNap&repo=marktorder_django&theme=gotham">
     </a>
 </p>
 
