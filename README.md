@@ -29,21 +29,25 @@
 <br>
 
 <p align="center">
-    <code>
-        Hi, I'm Ibukunoluwa Naphtali, Web Developer • Software Developer • Blockchain Developer.
-        <br>
-        <br>
-        🔬 I'm currently amping up my Solidity skills!.
-        <br>
+    Hi, I'm Ibukunoluwa Naphtali, Web Developer • Software Developer • Blockchain Developer.
+    <br>
+    <br>
+    🔬 I'm currently amping up my Solidity skills!.
+    <br>
 
-        💻 Simply addicted to code
-        <br>
-        📚 Currently building the Marktorder university marketplace for student sellers and buyers.
-        <br>
+    💻 Simply addicted to code
+    <br>
+    📚 Currently building the Marktorder university marketplace for student sellers and buyers.
+    <br>
+    <code>
         💬<a href="https://github.com/IbukunoluwaNap/marktorder_flutter/issues" title="Issues">Marktorder Flutter Issues</a>
-        <br>
+    </code>
+    <br>
+    <code>
         💬<a href="https://github.com/IbukunoluwaNap/marktorder_django/issues" title="Issues">Marktorder Django Issues</a>
-        <br>
+    </code>
+    <br>
+    <code>
         📫 How to reach me: <a href="mailto: promisenap2001@gmail.com">promisenap2001@gmail.com</a>
     </code>
 </p>
