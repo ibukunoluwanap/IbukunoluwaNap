@@ -25,11 +25,8 @@
         </a>
     </code>
 </h5>
-
 <br>
-
 <h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
-
 <p align="center">
     <code><img title="React" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/react-original.svg"></code>
     <code><img title="Python" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/python-original.svg"></code>
@@ -44,36 +41,31 @@
 
 <p align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-        <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=ibukunoluwanap&show_icons=true&theme=gotham">
+        <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=IbukunoluwaNap&show_icons=true&theme=gotham">
     </a>
-    
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibukunoluwanap&hide=c%23,powershell,java&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact"/>
+        <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbukunoluwaNap&hide=c%23,powershell,java&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact" />
     </a>
 </p>
 
 <hr>
-
 <h2 align="center">Repositories</h2>
 
 <p width="100%" align="center">
-    <a align="left" href="https://github.com/ibukunoluwanap/marktorder_flutter" title="Algorithms"><img align="left" height="115" src="https://github-readme-          stats.vercel.app/api/pin/?username=ibukunoluwanap&repo=marktorder_flutter&theme=gotham">
-    </a>
-  
-    <a align="right" href="https://github.com/ibukunoluwanap/marktorder_django" title="Data Structures">
-        <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ibukunoluwanap&repo=marktorder_django&theme=gotham">
-    </a>
+  <a align="left" href="https://github.com/IbukunoluwaNap/marktorder_flutter" title="Algorithms"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=IbukunoluwaNap&repo=marktorder_flutter&theme=gotham"></a>
+
+  <a align="right" href="https://github.com/IbukunoluwaNap/marktorder_django" title="Data Structures">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=IbukunoluwaNap&repo=marktorder_django&theme=gotham">
+  </a>
 </p>
 
 <br>
 <br>
 
 <p width="100%" align="center">
-    <a align="left" href="https://github.com/ibukunoluwanap/big-family-360" title="Turkce-Heceleme-CPP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ibukunoluwanap&repo=big-family-360&theme=gotham">
-    </a>
+  <a align="left" href="https://github.com/IbukunoluwaNap/big-family-360" title="Turkce-Heceleme-CPP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=IbukunoluwaNap&repo=big-family-360&theme=gotham"></a>
 
-    <a align="right" href="https://github.com/ibukunoluwanap/Advance_Notification" title="ELF Coin BEP20 Token"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ibukunoluwanap&repo=Advance_Notification&theme=gotham">
-    </a>
+  <a align="right" href="https://github.com/IbukunoluwaNap/Advance_Notification" title="ELF Coin BEP20 Token"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=IbukunoluwaNap&repo=Advance_Notification&theme=gotham"></a>
 </p>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br>
